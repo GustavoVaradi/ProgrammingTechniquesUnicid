@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Unicid\TecnicasDeProgramacao\Class One - MVC\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3011209426.index
-2862923830.index
